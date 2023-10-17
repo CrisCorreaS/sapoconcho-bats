@@ -11,6 +11,9 @@ Sapoconcho BATS es un emocionante proyecto que combina dos proyectos previos de 
 
 Para obtener más información sobre el proyecto, puedes consultar la [documentación del proyecto en el sitio de Bricolabs](https://bricolabs.cc/wiki/proyectos/sapoconcho_bats).
 
+![](https://bricolabs.cc/wiki/_media/proyectos/sapoconcho/bats4_12.jpg)
+
+
 ## Iniciación a la programación física con Arduino
 
 Los pines asignados en la BATS son los siguientes::
