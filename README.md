@@ -1,25 +1,55 @@
 # sapoconcho-bats
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br/>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-<h2>Introducción</h2>
-    <p>Sapoconcho BATS es un proyecto nuevo para mezclar dos anteriores de Bricolabs:</p>
-    <ul>
-        <li>BATS (Bricolabs Arduino Training Shield) -> es una idea original de una placa escudo (shield) para Arduino UNO
-            con muchos de los componentes que se utilizan en los cursos para el aprendizaje inicial de esta plataforma.</li>
-        <li>Sapoconcho -> es un proyecto de robot de aprendizaje imprimible (printbot), versátil, sencillo y barato</li>
-    </ul>
-    <a href="https://bricolabs.cc/wiki/proyectos/sapoconcho_bats">Documentación del proyecto</a>
-    <h2>Iniciación a la programación física con Arduino</h2>    
-    <p>Los pines asignados en la BATS son los siguientes:</p>
-    <ul>
-        <li>0-1: recepción y transmisión (RX/TX) en el zócalo Bluetooth.</li>
-        <li>2: LED Neopixel (desconectable).</li>
-        <li>3-4: pulsadores (desconectables).</li>
-        <li>5: sin conectar.</li>
-        <li>6-9: control de motores.</li>
-        <li>10-12: LEDs de colores.</li>
-        <li>13: zumbador (desconectable).</li>
-        <li>A0: LDR (desconectable).</li>
-        <li>A1-A2: potenciómetros (desconectables).</li>
-        <li>A3-A5: sin conectar.</li>
-    </ul>
+## Introducción
+
+Sapoconcho BATS es un emocionante proyecto que combina dos proyectos previos de Bricolabs:
+
+- **BATS (Bricolabs Arduino Training Shield):** Esta es una idea original de un escudo (shield) diseñado para Arduino UNO, que incorpora muchos de los componentes utilizados en cursos de aprendizaje inicial sobre esta plataforma.
+
+- **Sapoconcho:** Sapoconcho es un proyecto de robot de aprendizaje imprimible (printbot), que es versátil, sencillo y asequible.
+
+Para obtener más información sobre el proyecto, puedes consultar la [documentación del proyecto en el sitio de Bricolabs](https://bricolabs.cc/wiki/proyectos/sapoconcho_bats).
+
+![](https://bricolabs.cc/wiki/_media/proyectos/sapoconcho/bats4_12.jpg)
+
+
+## Iniciación a la programación física con Arduino
+
+Los pines asignados en la BATS son los siguientes::
+
+- **0-1**: Recepción y transmisión (RX/TX) en el zócalo Bluetooth.
+- **2**: LED Neopixel (desconectable).
+- **3-4**: Pulsadores (desconectables).
+- **5**: Sin conectar.
+- **6-9**: Control de motores.
+- **10-12**: LEDs de colores.
+- **13**: Zumbador (desconectable).
+- **A0**: LDR (desconectable).
+- **A1-A2**: Potenciómetros (desconectables).
+- **A3-A5**: Sin conectar.
+
+## Uso
+A continuación, se describen los pasos básicos para comenzar a utilizar Sapoconcho BATS en tus proyectos:
+
+- Clona el repositorio en tu máquina local: ```git clone https://github.com/CrisCorreaS/sapoconcho-bats.git```
+- Conecta la placa BATS a tu Arduino UNO.
+- Carga el código de ejemplo en tu Arduino utilizando el entorno de desarrollo de Arduino.
+- Comienza a experimentar con los componentes de la placa BATS y desarrolla tus propios proyectos de programación física
+
+## Contribuciones
+Agradecemos las contribuciones de la comunidad para mejorar y hacer crecer el proyecto Sapoconcho BATS. Si deseas contribuir, sigue estos pasos:
+
+- Realiza un fork del repositorio en GitHub.
+- Clona tu repositorio fork en tu máquina local: ```git clone https://github.com/tu-usuario/sapoconcho-bats.git```
+- Crea una rama para tu nueva función o corrección de errores: ```git checkout -b nombre-de-la-rama```
+- Realiza tus cambios y asegúrate de que todo funcione correctamente.
+- Haz commit de tus cambios y sube la rama a tu repositorio fork en GitHub: ```git commit -m "Descripción de los cambios"``` y ```git push origin nombre-de-la-rama```
+- Crea un Pull Request (PR) desde tu repositorio fork en GitHub.
+- Estaremos encantados de revisar tu PR y considerar tu contribución al proyecto.
+
+## Agradecimientos
+Expresar nuestro agradecimiento a todos los colaboradores y entusiastas de Bricolabs que han impulsado y contribuido a hacer que Sapoconcho BATS sea un proyecto abierto, accesible y documentado. Gracias a todos ellos, con este proyecto podremos aprender:
+- **Electrónica básica:** componentes, montajes sencillos y soldadura.
+- **Programación básica:** programación física con variables, funciones y librerías.
+- **Iniciación a los robots móviles:** montaje de chasis con formato tortuga, electrónica de control y sensores.. ¡Gracias por ser parte de nuestra comunidad y por apoyar este proyecto!
