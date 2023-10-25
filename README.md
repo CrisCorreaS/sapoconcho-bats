@@ -23,6 +23,8 @@ Los pines asignados en la BATS son los siguientes::
 - **3-4**: Pulsadores (desconectables).
 - **5**: Sin conectar.
 - **6-9**: Control de motores.
+- - Motor izquierdo: **6** (PWM) y **7** 
+- - Motor derecho: **8** y **9** (PWM)
 - **10-12**: LEDs de colores.
 - **13**: Zumbador (desconectable).
 - **A0**: LDR (desconectable).
