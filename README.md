@@ -21,21 +21,21 @@ Los pines asignados en la BATS son los siguientes::
 - **0-1**: Recepción y transmisión (RX/TX) en el zócalo Bluetooth.
 - **2**: LED Neopixel (desconectable).
 - **3-4**: Pulsadores/Botones (desconectables).
-- - Botón verde: **3**
-- - Botón rojo: **4**
+  - Botón verde: **3**
+  - Botón rojo: **4**
 - **5**: Sin conectar.
 - **6-9**: Control de motores.
-- - Motor izquierdo: **6** (PWM) y **7** 
-- - Motor derecho: **8** y **9** (PWM)
+  - Motor izquierdo: **6** (PWM) y **7** 
+  - Motor derecho: **8** y **9** (PWM)
 - **10-12**: LEDs de colores.
-- - Led verde: **10**
-- - Led amarilla: **11**
-- - Led roja: **12**
+  - Led verde: **10**
+  - Led amarilla: **11**
+  - Led roja: **12**
 - **13**: Zumbador (desconectable).
 - **A0**: LDR (desconectable).
 - **A1-A2**: Potenciómetros (desconectables).
-- - Potenciómetro A1: **15**
-- - Potenciómetro A2: **16**
+  - Potenciómetro A1: **15**
+  - Potenciómetro A2: **16**
 - **A3-A5**: Sin conectar.
 
 ## Uso
