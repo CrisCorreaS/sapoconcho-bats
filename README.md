@@ -41,10 +41,10 @@ Los pines asignados en la BATS son los siguientes::
 ## Estructura
 Este repositorio estará estructurado en base a los diferentes proyectos de programación en Arduino que se encuentran en la guía documentada de Bricolabs.
 En cada carpeta de los proyectos se encontrarán diferentes ejercicios de prácticas explicados. Los proyectos recogidos en este repositorio son los siguientes:
-- Proyecto 1. Salidas digitales
-- Proyecto 2: Instrucciones repetidas en bucle
-- Proyecto 3: Salidas "analógicas"
-- Proyecto 4: Entradas digitales y analógicas
+- [Proyecto 1. Salidas digitales](https://github.com/CrisCorreaS/sapoconcho-bats/tree/main/Proyecto%201.%20Salidas%20digitales)
+- [Proyecto 2: Instrucciones repetidas en bucle](https://github.com/CrisCorreaS/sapoconcho-bats/tree/main/Proyecto%202.%20Instrucciones%20repetidas%20en%20bucle)
+- [Proyecto 3: Salidas "analógicas"](https://github.com/CrisCorreaS/sapoconcho-bats/tree/main/Proyecto%203.%20Salidas%20'anal%C3%B3gicas')
+- [Proyecto 4: Entradas digitales y analógicas](https://github.com/CrisCorreaS/sapoconcho-bats/tree/main/Proyecto%204.%20Entradas%20digitales%20y%20anal%C3%B3gicas)
 - Proyecto 5: Tareas condicionadas
 - Proyecto 6: Librerías de funciones
 - Proyecto 7: Funciones en Arduino
