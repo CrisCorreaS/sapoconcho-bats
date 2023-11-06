@@ -38,6 +38,17 @@ Los pines asignados en la BATS son los siguientes::
   - Potenciómetro A2: **16**
 - **A3-A5**: Sin conectar.
 
+## Estructura
+Este repositorio estará estructurado en base a los diferentes proyectos de programación en Arduino que se encuentran en la guía documentada de Bricolabs.
+En cada carpeta de los proyectos se encontrarán diferentes ejercicios de prácticas explicados. Los proyectos recogidos en este repositorio son los siguientes:
+- Proyecto 1. Salidas digitales
+- Proyecto 2: Instrucciones repetidas en bucle
+- Proyecto 3: Salidas "analógicas"
+- Proyecto 4: Entradas digitales y analógicas
+- Proyecto 5: Tareas condicionadas
+- Proyecto 6: Librerías de funciones
+- Proyecto 7: Funciones en Arduino
+
 ## Uso
 A continuación, se describen los pasos básicos para comenzar a utilizar Sapoconcho BATS en tus proyectos:
 
