@@ -2,7 +2,7 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 <img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
 <img alt="arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
-<br/><br/>
+<br/>
 ## Introducción
 
 Sapoconcho BATS es un emocionante proyecto que combina dos proyectos previos de Bricolabs:
